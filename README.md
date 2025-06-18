@@ -54,7 +54,6 @@ Operator Overloading - 	operator>> for transferring funds between accounts
 
 Destructor - 	Cleans up account data on program exit
 
-<h3>The Code to the following project is on OOPS folder</h3>
 <br>
 <br>
 <h3>👨‍💻 Author</h3>
